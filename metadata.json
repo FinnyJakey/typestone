@@ -9,8 +9,15 @@
           "title": "마크다운 모든 문법",
           "excerpt": "Markdown 렌더링 테스트",
           "date": "2025-02-11 04:30",
-          "thumbnail": "https://raw.githubusercontent.com/FinnyJakey/typestone/main/miscellaneous/markdown-all-syntax/http:/cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0",
+          "thumbnail": "http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0",
           "filePath": "miscellaneous/markdown-all-syntax/content.md"
+        },
+        {
+          "title": "test-title",
+          "excerpt": "test-description",
+          "date": "2025-02-11 17:56",
+          "thumbnail": "https://raw.githubusercontent.com/FinnyJakey/typestone/main/miscellaneous/test/IMG_0768.JPG",
+          "filePath": "miscellaneous/test/content.md"
         }
       ]
     }
