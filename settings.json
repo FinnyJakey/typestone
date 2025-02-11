@@ -1,10 +1,10 @@
 {
   "username": "UseRNAMe_test",
   "giscus": {
-    "repo": "giscus/giscus",
-    "repoId": "[ENTER REPO ID HERE]",
-    "category": "[ENTER CATEGORY NAME HERE]",
-    "categoryId": "[ENTER CATEGORY ID HERE]",
+    "repo": "finnyjakey/typestone",
+    "repoId": "R_kgDON3a5Ng",
+    "category": "General",
+    "categoryId": "DIC_kwDON3a5Ns4Cm22r",
     "mapping": "pathname",
     "strict": "0",
     "reactionsEnabled": "1",
