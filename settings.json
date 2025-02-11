@@ -1,0 +1,16 @@
+{
+  "username": "UseRNAMe_test",
+  "giscus": {
+    "repo": "giscus/giscus",
+    "repoId": "[ENTER REPO ID HERE]",
+    "category": "[ENTER CATEGORY NAME HERE]",
+    "categoryId": "[ENTER CATEGORY ID HERE]",
+    "mapping": "pathname",
+    "strict": "0",
+    "reactionsEnabled": "1",
+    "emitMetadata": "0",
+    "inputPosition": "bottom",
+    "theme": "preferred_color_scheme",
+    "lang": "ko"
+  }
+}
