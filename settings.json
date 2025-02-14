@@ -12,7 +12,7 @@
     {
       "title": "Miscellaneous",
       "path": "./posts/miscellaneous/content.md"
-    },
+    }
   ],
   "giscus": {
     "repo": "finnyjakey/typestone",
