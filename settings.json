@@ -1,12 +1,25 @@
 {
-  "username": "UseRNAMe_test",
+  "username": "USERNAME-TEST",
+  "navigations": [
+    {
+      "title": "About",
+      "path": "posts/about/content.md"
+    },
+    {
+      "title": "Projects",
+      "path": "/posts/projects/content.md"
+    },
+    {
+      "title": "Miscellaneous",
+      "path": "./posts/miscellaneous/content.md"
+    },
+  ],
   "giscus": {
     "repo": "finnyjakey/typestone",
     "repoId": "R_kgDON3a5Ng",
     "category": "General",
     "categoryId": "DIC_kwDON3a5Ns4Cm22r",
     "mapping": "pathname",
-    "strict": "0",
     "reactionsEnabled": "1",
     "emitMetadata": "0",
     "inputPosition": "bottom",
