@@ -13,6 +13,6 @@ tags: ["about", "image"]
 
 ![제목3 with (./sample.png)](./sample.png)
 
-![제목4 with (/image-in-markdown/sample.png)](/posts/image-in-markdown/sample.png)
+![제목4 with (/posts/image-in-markdown/sample.png)](/posts/image-in-markdown/sample.png)
 
 ![제목5 with (./././sample.png)](./././sample.png)
