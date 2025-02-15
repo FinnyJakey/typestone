@@ -16,3 +16,18 @@ tags: ["about", "image"]
 ![제목4 with (/posts/image-in-markdown/sample.png)](/posts/image-in-markdown/sample.png)
 
 ![제목5 with (./././sample.png)](./././sample.png)
+
+```javascript
+console.log("Javascript!!");
+```
+
+```Rust
+println!("Hello world!");
+```
+
+```python
+def sayHello():
+  print("Hello world!")
+
+sayHello()
+```
