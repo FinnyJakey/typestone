@@ -12,6 +12,9 @@
     {
       "title": "Miscellaneous",
       "path": "./posts/miscellaneous/content.md"
+    },
+    {
+      "wrong": "WRONG"
     }
   ],
   "giscus": {
@@ -24,6 +27,13 @@
     "emitMetadata": "0",
     "inputPosition": "bottom",
     "theme": "light",
-    "lang": "ko"
+    "wrong": "WRONG"
+  },
+  "wrong": {
+    "wrong": [
+      {
+        "wrong": "WRONG"
+      }
+    ]
   }
 }
